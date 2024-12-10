@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой сайт</title>
+    <style> body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; } h1 { color: #333; text-align: center; } p { line-height: 1.5; margin-bottom: 15px; } </style>
+</head>
+<body>
+    <h1>Приветствую вас на моем сайте!</h1>
+    
+    <p>Добро пожаловать на мой сайт. Здесь вы найдете полезную информацию о различных темах.</p>
+    
+    <ul>
+        <li><a href="#">Главная страница</a></li>
+        <li><a href="#">О нас</a></li>
+        <li><a href="#">Контакты</a></li>
+    </ul>
+    
+    <footer style="text-align: center; margin-top: 50px;">© Мой сайт 2023</footer>
+</body>
+</html>
